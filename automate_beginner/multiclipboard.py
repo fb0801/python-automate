@@ -36,6 +36,12 @@ if len(sys.argv) == 2:
         if key in data:
             clipboard.copy(data[key])
             print("data copied to clipboard")
+    elif command == 'list':
+        print(data)
+    elif command =="delete":
+         key = input('Enter a key: ')
+         for keys in clipboard.json:
+            del[keys][key]
     else:
         print('unknown command')
 else:
