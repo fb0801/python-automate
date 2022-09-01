@@ -15,3 +15,7 @@ Different projects related to automation
 
 <h3>Issues:</h3>
 in terminal first check you have the modules you need using the command (pip list) to see if the module you have is already installed otherwise you will need to install the module yourself
+
+
+<h3>Changes made:</h3>
+-Adding a delete function to the clipboard script
