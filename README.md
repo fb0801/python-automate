@@ -8,6 +8,8 @@ Different projects related to automation
 <h3>Resources used:</h3>
 <ul>
 <li>https://www.youtube.com/watch?v=Oz3W-LKfafE</li>
+<li>https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/</li>
+<li>https://copypaste.guru/WhereIsMyPythonModule/how-to-install-the-python-package-clipboard-with-pip</li>
 </ul>
 
 
