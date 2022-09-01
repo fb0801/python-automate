@@ -1,6 +1,6 @@
 # python-automate
 
-Decsription:
+Description:
 
 Different projects related to automation
 
