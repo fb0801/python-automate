@@ -2,7 +2,11 @@ import sys
 import clipboard
 import json
 
-#clipboard.copy("abc")
+#application to copy item
+
+SAVED_DATA = "clipboard.json"
+
+
 
 #save items
 def save_items(filepath, data):
@@ -17,10 +21,12 @@ def load_items(filepath):
 
 if len(sys.argv) == 2:
     command =sys.argv[1]
-    print (command)
+    data = load_items(SAVED_DATA)
 
     if command == "save":
-        print('save')
+        key = input('Enter a key: ')
+        data[key] = clipboard.paste()
+        save_items(,data)
     elif command == 'load':
         print ('load')
     else:
