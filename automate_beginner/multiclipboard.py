@@ -40,8 +40,11 @@ if len(sys.argv) == 2:
         print(data)
     elif command =="delete":
          key = input('Enter a key to remove: ')
-         for keys in SAVED_DATA:
-            del[keys][key]
+         del SAVED_DATA[key]
+         #SAVED_DATA.pop(key)
+         #for keys in SAVED_DATA:
+            #del[keys][key]
+            #removed_key = SAVED_DATA.pop(keys)
     else:
         print('unknown command')
 else:
