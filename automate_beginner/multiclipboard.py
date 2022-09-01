@@ -39,8 +39,8 @@ if len(sys.argv) == 2:
     elif command == 'list':
         print(data)
     elif command =="delete":
-         key = input('Enter a key: ')
-         for keys in clipboard.json:
+         key = input('Enter a key to remove: ')
+         for keys in SAVED_DATA:
             del[keys][key]
     else:
         print('unknown command')
