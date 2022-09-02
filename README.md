@@ -10,9 +10,10 @@ Different projects related to automation
 <li>https://www.youtube.com/watch?v=Oz3W-LKfafE</li>
 <li>https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/</li>
 <li>https://copypaste.guru/WhereIsMyPythonModule/how-to-install-the-python-package-clipboard-with-pip</li>
-https://www.educative.io/answers/how-to-remove-a-key-value-pair-from-a-dictionary-in-python
-https://careerkarma.com/blog/python-remove-key-from-a-dictionary/#:~:text=To%20remove%20a%20key%20from,item%20after%20the%20del%20keyword.
-https://openweathermap.org/guide
+<li>https://www.educative.io/answers/how-to-remove-a-key-value-pair-from-a-dictionary-in-python</li>
+<li>https://careerkarma.com/blog/python-remove-key-from-a-dictionary/#:~:text=To%20remove%20a%20key%20from,item%20after%20the%20del%20keyword.</li>
+<li>https://openweathermap.org/guide</li>
+<li>https://www.youtube.com/watch?v=PXMJ6FS7llk</li>
 </ul>
 
 
