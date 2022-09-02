@@ -18,9 +18,10 @@ Different projects related to automation
 
 
 <h3>Issues:</h3>
--in terminal first check you have the modules you need using the command (pip list) to see if the module you have is already installed otherwise you will need to install the module yourself
--if module does not install run as admin to install
-
+<ul>
+<li>-in terminal first check you have the modules you need using the command (pip list) to see if the module you have is already installed otherwise you will need to install the module yourself</li>
+<li>-if module does not install run as admin to install</li>
+</ul>
 
 <h3>Changes made:</h3>
 -Adding a delete function to the clipboard script
