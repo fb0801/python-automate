@@ -2,7 +2,7 @@
 
 <h3>Description:</h3>
 
-Different projects related to automation
+Different projects related to automation with python
 
 
 <h3>Resources used:</h3>
@@ -14,6 +14,9 @@ Different projects related to automation
 <li>https://careerkarma.com/blog/python-remove-key-from-a-dictionary/#:~:text=To%20remove%20a%20key%20from,item%20after%20the%20del%20keyword.</li>
 <li>https://openweathermap.org/guide</li>
 <li>https://www.youtube.com/watch?v=PXMJ6FS7llk</li>
+<li>https://www.youtube.com/watch?v=vEQ8CXFWLZU</li>
+<li>https://www.youtube.com/watch?v=TifZKZUoGJQ</li>
+<li>https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW</li>
 </ul>
 
 
