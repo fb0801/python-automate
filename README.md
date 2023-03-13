@@ -18,6 +18,7 @@ Different projects related to automation with python
 <li>https://www.youtube.com/watch?v=TifZKZUoGJQ</li>
 <li>https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW</li>
   <li>https://www.youtube.com/watch?v=vEQ8CXFWLZU</li>
+  <li>https://www.youtube.com/watch?v=lckdQ6jZ8tg</li>
 </ul>
 
 
