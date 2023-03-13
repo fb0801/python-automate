@@ -8,4 +8,6 @@ r=sr.Recognizer()
 
 
 #take file
-def recognise 
+def recogniseFromFile(filename):
+    with sr.AudioFile(filename) as source:
+        audio_data =r.record(source)
