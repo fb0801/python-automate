@@ -22,6 +22,7 @@ Different projects related to automation with python
  <li> https://www.youtube.com/watch?v=ZRlbf5P2iMA</li>
  <li>https://www.youtube.com/watch?v=s8XjEuplx_U</li>
  <li>https://www.youtube.com/watch?v=SjkYiVy069Y</li>
+ <li>https://imageio.readthedocs.io/en/stable/user_guide/installation.html</li>
 </ul>
 
 
